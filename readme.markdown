@@ -1,0 +1,1 @@
+On HTC Desire user push search button then EditField get's focus, but keyboard dissapears right after it appears.
